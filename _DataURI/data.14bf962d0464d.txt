@@ -1,0 +1,1 @@
+chrome-extension://flhclpkhoiajoikkabbfbinnjapaflog/minified/frame_content.js
